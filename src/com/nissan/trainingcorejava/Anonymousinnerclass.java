@@ -2,7 +2,7 @@ package com.nissan.trainingcorejava;
 
 interface Customer{
 	 void name();
-	 void name2();
+	 void name3();
 }
 
 
